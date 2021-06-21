@@ -1,5 +1,5 @@
 # TestApplicationTOT
-test application for tot systems
+test application for TOT systems
 
 technologies used: java 8, spring (boot, data), mySql, flyWay migration
 application architecture - MVC, REST
